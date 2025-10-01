@@ -82,13 +82,13 @@ done
 
 ### $ net.links
 <p>
-  <a href="https://www.linkedin.com/in/asnan" target="_blank">
+  <a href="https://www.linkedin.com/asn-zsh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/asnan_dev" target="_blank">
+  <a href="https://x.com/l0n3d3v" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-121212?style=flat-square&logo=twitter&logoColor=1DA1F2" />
   </a>
-  <a href="mailto:asnan.dev@proton.me">
+  <a href="mailto:asnan0130@gmail.com">
     <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=D14836" />
   </a>
 </p>
