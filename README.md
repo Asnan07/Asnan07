@@ -1,4 +1,4 @@
-<!--
+[![An image of @asnan07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asnan07)](https://holopin.io/@asnan07)<!--
  Minimal, terminal-esque GitHub Profile README
  ASCII art generated (figlet -f slant "Asnan")
 -->
